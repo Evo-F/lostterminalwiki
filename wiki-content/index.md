@@ -1,3 +1,7 @@
+---
+title: Main Page
+---
+
 ```
 Hello world - welcome to the Lost Terminal wiki!
 ```
