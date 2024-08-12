@@ -1,10 +1,9 @@
 ---
 title: Main Page
 ---
-
-```
+<center><code>
 Hello world - welcome to the Lost Terminal wiki!
-```
+</code></center>
 
 *Lost Terminal* is a sci-fi hopepunk podcast produced by Tristram "NAMTAO" Oaten. The podcast is currently on its 16th season, and has been running since August 2020.
 
@@ -21,5 +20,10 @@ You can listen to *Lost Terminal* on your favorite podcast service, or visit the
 > 
 > If you'd like to help work on this wiki, check out the [[Contributing]] page.
 ---
+<center>
+<a href = "https://brainmade.org">
+<img src="/assets/brainmade-white.svg" alt="Brainmade mark, white.">
+</a></center>
+
 ![[brainmade-white.svg]]
 
