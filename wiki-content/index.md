@@ -1,6 +1,3 @@
----
-title: Lost Terminal Wiki
----
 ```
 Hello world - welcome to the Lost Terminal wiki!
 ```
