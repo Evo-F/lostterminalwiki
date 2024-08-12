@@ -17,7 +17,7 @@ concurrency:
 ############# The actual jobs themselves.
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       ############# Checks out a copy of Quartz onto our runner, under the ./quartz subdirectory.
       - uses: actions/checkout@v4
@@ -62,7 +62,6 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./quartz/public
- 
   deploy:
     needs: build
     environment:
