@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "The Aranian Compendium",
+    pageTitle: "Lost Terminal Wiki",
     enableSPA: true,
     enablePopovers: false,
     analytics: {

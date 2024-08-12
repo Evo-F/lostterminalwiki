@@ -1,0 +1,4 @@
+# Summary
+The Collapse is the name given to a period of rapid decline and destabilization for the human race, occurring some centuries before the start of *Lost Terminal.* The Collapse encompasses a number of smaller crises, events, and periods of unrest which all contributed to the degraded state of the world. 
+
+The most significant consequence of The Collapse was a significant ecological disruption caused by a runaway greenhouse effect and human-originated climate change. Global temperatures rose dramatically leading to the near-extinction of humanity and the mass migration of survivors to northern latitudes. The majority of humanity has congregated above the Arctic Circle in a region referred to as the **[[Novamediterra]]** - literally, the "New Mediterranean."
