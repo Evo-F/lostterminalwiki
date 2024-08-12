@@ -21,5 +21,5 @@ You can listen to *Lost Terminal* on your favorite podcast service, or visit the
 > 
 > If you'd like to help work on this wiki, check out the [[Contributing]] page.
 ---
-[[brainmade-white.svg]]
+![[brainmade-white.svg]]
 
