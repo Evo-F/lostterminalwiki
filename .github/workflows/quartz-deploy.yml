@@ -44,8 +44,8 @@ jobs:
           ls -l
           echo "Contents of core Quartz directory:"
           ls -l ../../quartz
-          cd ..
-          cp -r * ../quartz/content
+          cd ../wiki-content
+          cp -r * ../../quartz/content
           
       ############# Set up NodeJS on our runner.
       - uses: actions/setup-node@v4
