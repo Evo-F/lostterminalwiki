@@ -12,9 +12,6 @@ Hello world - welcome to the Lost Terminal wiki!
 You can listen to *Lost Terminal* on your favorite podcast service, or visit the *Lost Terminal* website at https://lostterminal.com/. 
 
 ---
-> [!info]
-> Although *Lost Terminal* follows the story of a plucky AI, this wiki is maintained entirely by humans. We do not use generative AI in the maintenance of this wiki or creation of content featured here.
-
 > [!todo]
 > This wiki is a work-in-progress and does not currently reflect all information made available in the podcast. 
 > 
@@ -24,6 +21,4 @@ You can listen to *Lost Terminal* on your favorite podcast service, or visit the
 <a href = "https://brainmade.org">
 <img src="/assets/brainmade-white.svg" alt="Brainmade mark, white.">
 </a></center>
-
-![[brainmade-white.svg]]
 
