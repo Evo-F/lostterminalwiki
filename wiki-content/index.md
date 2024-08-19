@@ -12,10 +12,13 @@ Hello world - welcome to the Lost Terminal wiki!
 You can listen to *Lost Terminal* on your favorite podcast service, or visit the *Lost Terminal* website at https://lostterminal.com/. 
 
 ---
-> [!todo]
+> [!todo] Work-In-Progress
 > This wiki is a work-in-progress and does not currently reflect all information made available in the podcast. 
 > 
 > If you'd like to help work on this wiki, check out the [[Contributing]] page.
+
+> [!faq] Copyright Notice
+> All copyright related to the *Lost Terminal* podcast, its characters, transcripts, and audio recordings are held by Tristram Oaten. This wiki and its maintainers make no claims of ownership over any of the cited resources.
 ---
 <center>
 <a href = "https://brainmade.org">
